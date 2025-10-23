@@ -229,7 +229,7 @@ export default function Questionnaire() {
                           <FormLabel>City or State</FormLabel>
                           <FormControl>
                             <Input
-                              placeholder="e.g., Los Angeles or California"
+                              placeholder="e.g., Frisco or Texas"
                               {...field}
                               data-testid="input-location"
                             />
